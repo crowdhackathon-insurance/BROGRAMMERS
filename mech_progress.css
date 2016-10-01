@@ -61,9 +61,7 @@ body {
  * Header
  */
 .masthead-brand {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  color: black;
+  padding-top: -30px;
 }
 
 .masthead-nav > li {
