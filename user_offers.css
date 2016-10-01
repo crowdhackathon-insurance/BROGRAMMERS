@@ -1,3 +1,5 @@
+
+
 .page-header { 
   text-align: center;
   margin-top: 0px;
@@ -65,9 +67,4 @@
   .masthead-nav {
     float: right;
   }
-}
-
-li{
-  list-style: none;
-  margin-right: -120px;
 }
