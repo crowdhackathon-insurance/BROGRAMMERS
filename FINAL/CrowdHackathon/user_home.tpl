@@ -46,7 +46,7 @@
 
           <div class="mastfoot">
             <div class="">
-              <p></p>
+              <p>Powered by BroGrammers.</p>
             </div>
           </div>
 
